@@ -25,9 +25,10 @@
  <hr/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" style="max-width: 100%; height: auto;" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" style="max-width: 100%; height: auto;" /><br>
 </div>
+
 
 <br/>
 <hr/>
