@@ -8,11 +8,11 @@
 
 <div align="left">
  
- 🔭 I’m currently staring to work on **my bot trading indicator in Trading View**.
+ 🗝️ I’m currently staring to work on **my bot trading indicator in Trading View**.
  
- 🌱 I’m currently learning **Python, HTML, SQL, JS**
+ 🌱 I’m currently learning **Python, HTML, SQL, JS, Pine Script**
 
- ⚡I'm currently studying in the Field of Data Engineering
+ 📚 I'm currently studying in the Field of Data Engineering
 
  </div>
  
@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css" style="max-width: 70%; height: auto;" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" style="max-width: 70%; height: auto;" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript" style="max-width: 70%; height: auto;" /><br>
 </div>
 
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="" />
   
   <br/><br/><br/>
 </div>
