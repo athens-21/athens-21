@@ -8,7 +8,7 @@
 
 <div align="left">
  
- 🗝️ I’m currently staring to work on **my bot trading indicator in Trading View**.
+ 🗝 I’m currently staring to work on **my bot trading indicator in Trading View**.
  
  🌱 I’m currently learning **Python, HTML, SQL, JS, Pine Script**
 
