@@ -1,22 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=athens-21.athens-21" />
 
 <h1 align="center">
-   I am Athens
+   I'm Athens
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently staring to work on **my bot trading indicator in Trading View**.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Python, HTML, SQL, JS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡I'm currently studying in the Field of Data Engineering
 
  </div>
  
