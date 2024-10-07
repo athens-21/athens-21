@@ -31,11 +31,3 @@
 
 
 <br/>
-<hr/>
-
-<div align="center">
-  <br>
-  <img alt="" />
-  
-  <br/><br/><br/>
-</div>
