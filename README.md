@@ -25,8 +25,8 @@
  <hr/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
 </div>
 
 <br/>
