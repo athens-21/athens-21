@@ -5,7 +5,7 @@
 </h1>
 
 <br/>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 📫 How to reach me **rattanin21@gmail.com**
 
